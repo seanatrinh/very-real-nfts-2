@@ -4,6 +4,13 @@
       "id": 0,
       "description": "My NFT",
       "external_url": "https://github.com/seanatrinh",
+      "image": "https://i.gyazo.com/4d62edd055a84d318f2225f0c45a60de.jpg",
+      "name": "Ravenclaw"
+    },
+    {
+      "id": 0,
+      "description": "My NFT",
+      "external_url": "https://github.com/seanatrinh",
       "image": "https://i.gyazo.com/22eedb3553fd9008ce9037c8447a69fa.png",
       "name": "Varun"
     },
