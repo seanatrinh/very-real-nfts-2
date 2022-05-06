@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tokens": [
+    {
+      "id": 0,
+      "description": "My NFT",
+      "external_url": "https://github.com/seanatrinh",
+      "image": "https://i.gyazo.com/22eedb3553fd9008ce9037c8447a69fa.png",
+      "name": "Varun"
+    },
+    {
+      "id": 1,
+      "description": "My NFT",
+      "external_url": "https://github.com/seanatrinh",
+      "image": "https://i.gyazo.com/02bf065b4bf7a6a2a40bff6bfb9858f1.png",
+      "name": "Austin"
+    },
+    {
+      "id": 2,
+      "description": "My NFT",
+      "external_url": "https://github.com/seanatrinh1",
+      "image": "https://i.gyazo.com/d32c19cd20b10d26f6b30c095527e9ce.png",
+      "name": "Ivy"
+    }
+  ]
 }
